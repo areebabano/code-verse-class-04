@@ -20,6 +20,8 @@ Topics Covered:
 
 - Group Routes
 
+-Image Component
+
 - Components:
 
 and also make a simple Header & footer component and use in layout.tsx
