@@ -20,7 +20,7 @@ Topics Covered:
 
 - Group Routes
 
--Image Component
+- Image Component
 
 - Components:
 
